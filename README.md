@@ -1,2 +1,3 @@
 this project stores some shell script tools for my work.
 <li> progress.sh: a simple progress demo.
+<li> str_split.sh: a simple demo for split a string using blank space
